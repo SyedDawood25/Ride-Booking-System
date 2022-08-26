@@ -1,0 +1,20 @@
+Red
+Blue
+Green
+Black
+Gray
+White
+Light Red
+Orange
+Light Blue
+Light Green
+Navy Blue
+Purple
+Maroon
+Yellow
+Aqua Blue
+Pink
+Silver
+Golden
+Dark Green
+Bronze
